@@ -1,7 +1,6 @@
 # 21 Dias De Codigo
 
-<p>Desafio proposto pela <a herf="https://www.rocketseat.com.br/"> Rocketseat </a>. Codar pelo menos 1 hora por dia durante 21 dias e concluir desafios diários.</p>
-
+<p>Desafio proposto pela <a herf="https://www.rocketseat.com.br/">Rocketseat</a> . Codar pelo menos 1 hora por dia durante 21 dias e concluir desafios diários. </p>
 <a href="https://www.instagram.com/p/ChTBg1BpLGU/">POST DO DESAFIO</a>
 
 ___
