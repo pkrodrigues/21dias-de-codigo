@@ -8,7 +8,8 @@ ___
 ## Desafios:
 
 - [X] Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.
-- [ ] Faça um Hello World customizado com fontes, cores e imagens.
+- [X] Faça um Hello World customizado com fontes, cores e imagens.
+    <img src="desafio-2/img/desafio2.png">
 - [ ] Crie um botão animado.
 - [ ] Crie uma calculadora.
 - [ ] Desenvolva uma página customizada que exiba o erro 404.
