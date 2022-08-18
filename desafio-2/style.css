@@ -1,0 +1,57 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #464660;
+  }
+
+  main {
+
+    display: flex;
+    align-itens: center;
+    align-content: flex-end;
+    flex-direction: row;
+  }
+
+  main img {
+    width: 15rem;
+    height: auto;
+    
+  }
+
+  main h1 {
+    font-family: 'Rubik Iso', cursive;
+    font-weight: 400; 
+    font-size: 5rem;
+    color: #FFF;
+    bottom: 0;
+    align-self: flex-end;
+  }
+  
+  main h1:hover {
+    color: #3CCF4E;
+  }
+
+  footer {
+    position: absolute;
+    bottom:0;
+  }
+  
+  footer p, a {
+    color: #fff;
+    font-height: 300;    
+    font-family: 'Roboto', sans-serif;
+  }
+
+  footer p a {
+    text-decoration: none;
+  }
+
+  footer p a:hover {
+    color: #6fb432;
+  }
+
+ 
